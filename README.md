@@ -1,4 +1,5 @@
 *Simple Calculator Project*
+
 A basic calculator built using HTML, CSS, and JavaScript. This project showcases a simple calculator with a user-friendly interface that performs basic arithmetic operations.
 
 *Features:*
